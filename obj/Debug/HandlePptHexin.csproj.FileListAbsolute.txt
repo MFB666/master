@@ -1,0 +1,13 @@
+C:\Users\10334\Desktop\VSTO0823\HandlePptHexin\bin\Debug\HandlePptHexin.dll
+C:\Users\10334\Desktop\VSTO0823\HandlePptHexin\bin\Debug\HandlePptHexin.pdb
+C:\Users\10334\Desktop\VSTO0823\HandlePptHexin\bin\Debug\HandlePptHexin.dll.manifest
+C:\Users\10334\Desktop\VSTO0823\HandlePptHexin\bin\Debug\HandlePptHexin.vsto
+C:\Users\10334\Desktop\VSTO0823\HandlePptHexin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\10334\Desktop\VSTO0823\HandlePptHexin\obj\Debug\HandlePptHexin.csproj.AssemblyReference.cache
+C:\Users\10334\Desktop\VSTO0823\HandlePptHexin\obj\Debug\HandlePptHexin.Properties.Resources.resources
+C:\Users\10334\Desktop\VSTO0823\HandlePptHexin\obj\Debug\HandlePptHexin.Ribbon1.resources
+C:\Users\10334\Desktop\VSTO0823\HandlePptHexin\obj\Debug\HandlePptHexin.csproj.GenerateResource.cache
+C:\Users\10334\Desktop\VSTO0823\HandlePptHexin\obj\Debug\HandlePptHexin.csproj.CoreCompileInputs.cache
+C:\Users\10334\Desktop\VSTO0823\HandlePptHexin\obj\Debug\HandlePptHexin.csproj.CopyComplete
+C:\Users\10334\Desktop\VSTO0823\HandlePptHexin\obj\Debug\HandlePptHexin.dll
+C:\Users\10334\Desktop\VSTO0823\HandlePptHexin\obj\Debug\HandlePptHexin.pdb
